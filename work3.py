@@ -1,0 +1,1 @@
+print([val for val in range(20,240) if not val%20 or not val%21])
